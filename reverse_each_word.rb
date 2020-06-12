@@ -4,4 +4,3 @@ string = string.split(" ").collect do |word|
   end
     string.join(" ")
   end
-end
