@@ -6,4 +6,3 @@ string = string.split(" ").collect do |word|
     word.reverse
   end
 end 
-  
