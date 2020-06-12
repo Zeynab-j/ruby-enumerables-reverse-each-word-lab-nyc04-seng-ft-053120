@@ -5,4 +5,5 @@ string = string.split(" ").collect do |word|
   string= sentence.split(" ").collect do |word|
     word.reverse
   end
+end 
   
