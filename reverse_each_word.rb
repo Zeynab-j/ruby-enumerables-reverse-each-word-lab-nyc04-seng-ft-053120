@@ -6,4 +6,3 @@ string = string.split(" ").collect do |word|
   end
 
 reverse_each_word("Hello there, and how are you?")
-
